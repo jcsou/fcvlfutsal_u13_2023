@@ -1,0 +1,98 @@
+{
+  "lesmatchs": [
+    {
+      "id": 30,
+      "salle": "2-CCVL",
+      "heureDebut": "17:16",
+      "nom": "3ieme PA, 4ieme PB",
+      "code": "place5_8-1",
+      "niveau": "1",
+      "equipeDom": {"id": "","but": ""},
+      "equipeExt": {"id": "","but": ""}
+    },
+    {
+      "id": 32,
+      "salle": "2-CCVL",
+      "nom": "3ieme PB, 4ieme PA",
+      "code": "place5_8-2",
+      "heureDebut": "17:24",
+      "niveau": "1",
+      "equipeDom": {"id": "","but": ""},
+      "equipeExt": {"id": "","but": ""}
+    },
+
+    {
+      "id": 29,
+      "salle": "1-GLC",
+      "heureDebut": "17:16",
+      "nom": "1er PA, 2nd PB",
+      "code": "place1_4-1",
+      "niveau": "1",
+      "equipeDom": {"id": "","but": ""},
+      "equipeExt": {"id": "","but": ""}
+    },
+    {
+      "id": 31,
+      "salle": "1-GLC",
+      "heureDebut": "17:24",
+      "nom": "1er PB, 2nd PA",
+      "code": "place1_4-2",
+      "niveau": "1",
+      "equipeDom": {"id": "","but": ""},
+      "equipeExt": {"id": "","but": ""}
+    },
+
+
+
+    {
+      "id": 36,
+      "salle": "2-CCVL",
+      "heureDebut": "17:44",
+      "nom": "Classement 7/8 iéme",
+      "code": "place7_8",
+      "niveau": "2",
+      "equipeDom": {"id": "","but": ""},
+      "equipeExt": {"id": "","but": ""}
+    },
+    {
+      "id": 38,
+      "salle": "2-CCVL",
+      "heureDebut": "17:52",
+      "nom": "Classement 5/6 iéme",
+      "code": "place5_6",
+      "niveau": "2",
+      "equipeDom": {"id": "","but": ""},
+      "equipeExt": {"id": "","but": ""}
+    },
+    {
+      "id": 37,
+      "salle": "1-GLC",
+      "heureDebut": "17:52",
+      "nom": "Classement 3/4 iéme",
+      "code": "place3_4",
+      "niveau": "2",
+      "equipeDom": {"id": "","but": ""},
+      "equipeExt": {"id": "","but": ""}
+    },
+    {
+      "id": 41,
+      "salle": "1-GLC",
+      "nom": "Finale",
+      "code": "place1-2",
+      "heureDebut": "18:10",
+      "niveau": "2",
+      "equipeDom": {"id": "","but": ""},
+      "equipeExt": {"id": "","but": ""}
+    }
+  ],
+  "leclassement": [
+    { "rang":"1", "equipe": ""},
+    { "rang":"2", "equipe": ""},
+    { "rang":"3", "equipe": ""},
+    { "rang":"4", "equipe": ""},
+    { "rang":"5", "equipe": ""},
+    { "rang":"6", "equipe": ""},
+    { "rang":"7", "equipe": ""},
+    { "rang":"8", "equipe": ""}
+  ]
+}

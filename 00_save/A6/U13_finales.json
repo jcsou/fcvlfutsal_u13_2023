@@ -1,0 +1,42 @@
+{
+  "lesmatchs": [
+    {
+      "id": 34,
+      "salle": "2-CCVL",
+      "heureDebut": "17:24",
+      "nom": "5ieme P, 6ieme P",
+      "code": "place5-6",
+      "niveau": "1",
+      "equipeDom": {"id": "","but": ""},
+      "equipeExt": {"id": "","but": ""}
+    },
+    {
+      "id": 35,
+      "salle": "1-GLC",
+      "nom": "3ieme P, 4ieme P",
+      "code": "place3-4",
+      "heureDebut": "17:32",
+      "niveau": "1",
+      "equipeDom": {"id": "","but": ""},
+      "equipeExt": {"id": "","but": ""}
+    },
+    {
+      "id": 39,
+      "salle": "1-GLC",
+      "heureDebut": "17:48",
+      "nom": "Finale : 1er P, 2ieme P",
+      "code": "place1-2",
+      "niveau": "1",
+      "equipeDom": {"id": "","but": ""},
+      "equipeExt": {"id": "","but": ""}
+    }
+  ],
+  "leclassement": [
+    { "rang":"1", "equipe": ""},
+    { "rang":"2", "equipe": ""},
+    { "rang":"3", "equipe": ""},
+    { "rang":"4", "equipe": ""},
+    { "rang":"5", "equipe": ""},
+    { "rang":"6", "equipe": ""}
+  ]
+}

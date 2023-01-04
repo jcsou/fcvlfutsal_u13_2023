@@ -1,0 +1,148 @@
+{
+  "lesequipes": [
+    "U11G1",
+    "U11G2",
+    "U11G3",
+    "U11G4",
+    "U11G5"
+  ],
+  "lesmatchs": [
+    {
+      "id": 1,
+      "salle": "1-GLC",
+      "heureDebut": "9:30",
+      "equipeDom": {"id": "U11G1","but": ""},
+      "equipeExt": {"id": "U11G2","but": ""}
+    },
+    {
+      "id": 3,
+      "salle": "1-GLC",
+      "heureDebut": "9:38",
+      "equipeDom": {"id": "U11G3","but": ""},
+      "equipeExt": {"id": "U11G4","but": ""}
+    },
+    {
+      "id": 5,
+      "salle": "1-GLC",
+      "heureDebut": "9:46",
+      "equipeDom": {"id": "U11G2","but": ""},
+      "equipeExt": {"id": "U11G5","but": ""}
+    },
+    {
+      "id": 7,
+      "salle": "1-GLC",
+      "heureDebut": "9:54",
+      "equipeDom": {"id": "U11G4","but": ""},
+      "equipeExt": {"id": "U11G1","but": ""}
+    },
+    {
+      "id": 9,
+      "salle": "1-GLC",
+      "heureDebut": "10:04",
+      "equipeDom": {"id": "U11G5","but": ""},
+      "equipeExt": {"id": "U11G3","but": ""}
+    },
+    {
+      "id": 12,
+      "salle": "2-CCVL",
+      "heureDebut": "10:12",
+      "equipeDom": {"id": "U11G2","but": ""},
+      "equipeExt": {"id": "U11G4","but": ""}
+    },
+    {
+      "id": 14,
+      "salle": "2-CCVL",
+      "heureDebut": "10:20",
+      "equipeDom": {"id": "U11G1","but": ""},
+      "equipeExt": {"id": "U11G3","but": ""}
+    },
+    {
+      "id": 16,
+      "salle": "2-CCVL",
+      "heureDebut": "10:28",
+      "equipeDom": {"id": "U11G4","but": ""},
+      "equipeExt": {"id": "U11G5","but": ""}
+    },
+    {
+      "id": 18,
+      "salle": "2-CCVL",
+      "heureDebut": "10:36",
+      "equipeDom": {"id": "U11G3","but": ""},
+      "equipeExt": {"id": "U11G2","but": ""}
+    },
+    {
+      "id": 20,
+      "salle": "2-CCVL",
+      "heureDebut": "10:44",
+      "equipeDom": {"id": "U11G5","but": ""},
+      "equipeExt": {"id": "U11G1","but": ""}
+    }
+  ],
+  "leclassement": [
+    {
+      "id":"U11G1",
+      "rang": "",
+      "points": "",
+      "diffbuts": "",
+      "butsPour": "",
+      "butsContre": "",
+      "match1": {
+        "points": "",
+        "butsPour": "",
+        "butsContre": ""
+      }
+    },
+    {
+      "id":"U11G2",
+      "rang": "",
+      "points": "",
+      "diffbuts": "",
+      "butsPour": "",
+      "butsContre": "",
+      "match1": {
+        "points": "",
+        "butsPour": "",
+        "butsContre": ""
+      }
+    },
+    {
+      "id":"U11G3",
+      "rang": "",
+      "points": "",
+      "diffbuts": "",
+      "butsPour": "",
+      "butsContre": "",
+      "match1": {
+        "points": "",
+        "butsPour": "",
+        "butsContre": ""
+      }
+    },
+    {
+      "id": "U11G4",
+      "rang": "",
+      "points": "",
+      "diffbuts": "",
+      "butsPour": "",
+      "butsContre": "",
+      "match1": {
+        "points": "",
+        "butsPour": "",
+        "butsContre": ""
+      }
+    },
+    {
+      "id":"U11G5",
+      "rang": "",
+      "points": "",
+      "diffbuts": "",
+      "butsPour": "",
+      "butsContre": "",
+      "match1": {
+        "points": "",
+        "butsPour": "",
+        "butsContre": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "lesequipes": [
+     {
+      "categorie_id": "U13G",
+      "id": "U13G1",
+      "nom": "COC",
+      "nomCourt": "COC",
+      "fanion": "coc.png"
+    },
+    {
+      "categorie_id": "U13G",
+      "id": "U13G2",
+      "nom": "FC Val Du Loir",
+      "nomCourt": "FCVL",
+      "fanion": "fcvl.png"
+    },
+    {
+      "categorie_id": "U13G",
+      "id": "U13G3",
+      "nom": "US Arnage Pontlieue",
+      "nomCourt": "USAP",
+      "fanion": "usap.png"
+    },
+    {
+      "categorie_id": "U13G",
+      "id": "U13G4",
+      "nom": "Villiers au Bouin",
+      "nomCourt": "Villiers",
+      "fanion": "villiers.png"
+    },
+    {
+      "categorie_id": "U13G",
+      "id": "U13G5",
+      "nom": "Ecommoy",
+      "nomCourt": "Ecommoy",
+      "fanion": "ecommoy.png"
+    },
+    {
+      "categorie_id": "U13G",
+      "id": "U13G6",
+      "nom": "Le Lude",
+      "nomCourt": "Le Lude",
+      "fanion": "lelude.png"
+    },
+    {
+      "categorie_id": "U13G",
+      "id": "U13G7",
+      "nom": "SudEstManceau-Brette",
+      "nomCourt": "Brette",
+      "fanion": "brette.png"
+    },
+    {
+      "categorie_id": "U13G",
+      "id": "U13G8",
+      "nom": "Gardien",
+      "nomCourt": "Gardiens",
+      "fanion": "district.png"
+    },
+
+    {
+      "categorie_id": "U13F",
+      "id": "U13F1",
+      "nom": "FC Val Du Loir 1",
+      "nomCourt": "FCVL1",
+      "fanion": "fcvl.png"
+    },
+    {
+      "categorie_id": "U13F",
+      "id": "U13F2",
+      "nom": "StSaturnin-LaMilesse",
+      "nomCourt": "FCSSM",
+      "fanion": "saintsatmilesse.png"
+    },
+    {
+      "categorie_id": "U13F",
+      "id": "U13F3",
+      "nom": "Le Mans FC",
+      "nomCourt": "Le Mans",
+      "fanion": "lemans.png"
+    },
+    {
+      "categorie_id": "U13F",
+      "id": "U13F4",
+      "nom": "US Arnage Pontlieue",
+      "nomCourt": "USAP",
+      "fanion": "usap.png"
+    },
+    {
+      "categorie_id": "U13F",
+      "id": "U13F5",
+      "nom": "Sargé / Yvré",
+      "nomCourt": "Sargé",
+      "fanion": "sarge.png"
+    },
+    {
+      "categorie_id": "U13F",
+      "id": "U13F6",
+      "nom": "FC Val Du Loir 2",
+      "nomCourt": "FCVL2",
+      "fanion": "fcvl.png"
+    },
+    {
+      "categorie_id": "U13F",
+      "id": "U13F7",
+      "nom": "-",
+      "nomCourt": "1",
+      "fanion": "district.png"
+    },
+    {
+      "categorie_id": "U13F",
+      "id": "U13F8",
+      "nom": "-",
+      "nomCourt": "2",
+      "fanion": "district.png"
+    }
+  ]
+}
